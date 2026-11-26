@@ -1,0 +1,86 @@
+[
+  {
+    "id": "V01",
+    "question": "wfh rules?",
+    "expected_terms": [
+      "work from home",
+      "wfh",
+      "remote work"
+    ]
+  },
+  {
+    "id": "V02",
+    "question": "notice period",
+    "expected_terms": [
+      "notice period",
+      "3 working days"
+    ]
+  },
+  {
+    "id": "V03",
+    "question": "sick leave?",
+    "expected_terms": [
+      "sick leave",
+      "medical leave"
+    ]
+  },
+  {
+    "id": "V04",
+    "question": "casual leave",
+    "expected_terms": [
+      "casual leave",
+      "12"
+    ]
+  },
+  {
+    "id": "V05",
+    "question": "who approves?",
+    "expected_terms": [
+      "reporting manager",
+      "approval"
+    ]
+  },
+  {
+    "id": "V06",
+    "question": "leave balance",
+    "expected_terms": [
+      "leave balance",
+      "leave entitlement",
+      "casual leave"
+    ]
+  },
+  {
+    "id": "V07",
+    "question": "remote work eligibility",
+    "expected_terms": [
+      "work from home",
+      "wfh",
+      "remote work"
+    ]
+  },
+  {
+    "id": "V08",
+    "question": "resignation rules",
+    "expected_terms": [
+      "notice period",
+      "resignation"
+    ]
+  },
+  {
+    "id": "V09",
+    "question": "time off for illness",
+    "expected_terms": [
+      "sick leave",
+      "medical leave"
+    ]
+  },
+  {
+    "id": "V10",
+    "question": "annual days off",
+    "expected_terms": [
+      "annual leave",
+      "casual leave",
+      "12"
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "id": "E01",
+    "type": "exact",
+    "question": "How many casual leave days are allowed per year?",
+    "expected_terms": [
+      "casual leave",
+      "12"
+    ]
+  },
+  {
+    "id": "E02",
+    "type": "exact",
+    "question": "What is the sick leave allowance: 10 days?",
+    "expected_terms": [
+      "sick leave",
+      "10"
+    ]
+  },
+  {
+    "id": "E03",
+    "type": "exact",
+    "question": "What is the notice period in working days?",
+    "expected_terms": [
+      "3 working days",
+      "notice period"
+    ]
+  },
+  {
+    "id": "E04",
+    "type": "exact",
+    "question": "Who approves a leave request: the reporting manager?",
+    "expected_terms": [
+      "reporting manager",
+      "approval"
+    ]
+  },
+  {
+    "id": "E05",
+    "type": "exact",
+    "question": "Find the WFH or work-from-home policy rules.",
+    "expected_terms": [
+      "work from home",
+      "wfh"
+    ]
+  },
+  {
+    "id": "E06",
+    "type": "exact",
+    "question": "Find the policy section that mentions annual leave entitlement.",
+    "expected_terms": [
+      "annual leave",
+      "leave entitlement"
+    ]
+  },
+  {
+    "id": "S01",
+    "type": "semantic",
+    "question": "I need to take a day off because I am unwell. What leave option applies?",
+    "expected_terms": [
+      "sick leave",
+      "medical leave"
+    ]
+  },
+  {
+    "id": "S02",
+    "type": "semantic",
+    "question": "I want to work remotely instead of coming to the office. What rules should I follow?",
+    "expected_terms": [
+      "work from home",
+      "wfh",
+      "remote work"
+    ]
+  },
+  {
+    "id": "S03",
+    "type": "semantic",
+    "question": "How early should I tell my employer before leaving the company?",
+    "expected_terms": [
+      "notice period",
+      "3 working days"
+    ]
+  },
+  {
+    "id": "S04",
+    "type": "semantic",
+    "question": "Who is responsible for accepting my time-off request?",
+    "expected_terms": [
+      "reporting manager",
+      "approval"
+    ]
+  },
+  {
+    "id": "S05",
+    "type": "semantic",
+    "question": "How much paid time away from work can I use for personal reasons?",
+    "expected_terms": [
+      "casual leave",
+      "12"
+    ]
+  },
+  {
+    "id": "S06",
+    "type": "semantic",
+    "question": "Where can I find the rules about employee attendance and leave?",
+    "expected_terms": [
+      "leave policy",
+      "attendance"
+    ]
+  }
+]
